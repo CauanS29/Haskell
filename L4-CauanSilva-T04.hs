@@ -1,5 +1,4 @@
-{- matricula : 202100073326 
-  nome completo : Cauan Santos Silva -} 
+
 
 
 import Data.Char 
